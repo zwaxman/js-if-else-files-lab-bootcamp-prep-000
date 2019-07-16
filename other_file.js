@@ -1,3 +1,3 @@
-var index = require("")
+var index = require("./index.js")
 
 console.log(name)
